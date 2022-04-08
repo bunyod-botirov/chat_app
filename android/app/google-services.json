@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492872668704",
+    "project_id": "chat-app-63a0d",
+    "storage_bucket": "chat-app-63a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492872668704:android:5c721d065633980d948e45",
+        "android_client_info": {
+          "package_name": "com.bunyodbotirov.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492872668704-bvv4btva45j3equ09aifhlk1ufkhj0vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLax-8IOtQSXRdPxOnYwiWz8gR351cuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492872668704-bvv4btva45j3equ09aifhlk1ufkhj0vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
